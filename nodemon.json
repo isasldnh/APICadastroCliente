@@ -1,0 +1,11 @@
+ {
+     "env": {
+        "MYSQL_USER": "root",
+        "PASSWORD": "root",
+        "DATABASE": "db_macapa_mercafacil",
+        "HOST": "localhost",
+        "PORT": 3306,
+
+        "JWT_KEY": "segredo"
+     }
+ }
